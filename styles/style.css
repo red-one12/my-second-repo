@@ -6,3 +6,9 @@ p{
     font-weight: 500;
     font-family: sans-serif;
 }
+button{
+    padding: 10px;
+    background-color: tomato;
+    border: none;
+    border-radius: 10px;
+}
